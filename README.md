@@ -78,7 +78,7 @@ uv sync
 
 ### Configuring MCP Client
 
-Add server configuration to the MCP client configuration file (using Claude Desktop as an example, the configuration file is usually located at `~/Library/Application Support/Claude/claude_desktop_config.json` or the corresponding location on Windows):
+Add server configuration to the MCP client configuration file (using Cursor as an example):
 
 ```json
 {
