@@ -1,0 +1,12 @@
+[project]
+name = "CloudBuilder"
+version = "2.0.0"
+description = "A standard MCP server for CloudBuilder operations including directory sync, file upload, and remote command execution."
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp>=2.0.0",
+    "loguru>=0.7.3",
+    "paramiko",
+    "pycryptodome>=3.23.0",
+    "python-dotenv",
+]
