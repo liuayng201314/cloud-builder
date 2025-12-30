@@ -1,0 +1,6 @@
+{
+  "REMOTE_HOST_NAME": "route84",
+  "LOCAL_PATH": "E:\\AI\\test_c",
+  "REMOTE_PATH": "/home/xxxx/ftp_dir",
+  "BUILD_COMMAND": "/home/xxxx/ftp_dir/build.sh"
+}
