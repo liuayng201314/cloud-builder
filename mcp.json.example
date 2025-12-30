@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "cloud-builder": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "E:\\gitlab\\my_mcp_tools\\cloud-builder",
+        "run",
+        "python",
+        "src/main.py"
+      ],
+      "env": {
+        "RCLONE_EXE_PATH": "D:\\dev\\rclone\\rclone.exe",
+        "PROJECT_PATH": "${workspaceFolder}"
+      }
+    }
+  }
+}
